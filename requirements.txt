@@ -1,0 +1,3 @@
+PySide6
+PySDL2
+pysdl2-dll
